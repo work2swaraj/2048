@@ -16,11 +16,11 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 60px;
+  font-size: 45px;
   font-weight: bold;
   margin: 0;
   display: block;
-  float: left; }
+  float: left; } 
 
 @-webkit-keyframes move-up {
   0% {
